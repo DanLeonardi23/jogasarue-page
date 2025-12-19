@@ -61,7 +61,7 @@
             
         }
 
-        .img-exp {
+        .img-exp { /* imagem explicativa */
             display: block;
 
             margin-right: auto;
@@ -71,7 +71,7 @@
             padding-bottom: 20px;
         }
 
-        #poke {
+        .init { /* iniciar paragrafo */
             text-indent: 20px;
         }
 
@@ -80,6 +80,15 @@
         text-decoration: none;
         }    
 
+        #sufocoimg {
+            display: block;
+            margin-left: 0;
+            margin-right: auto;
+            max-width: 450px;
+            min-width: 200px;
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
 
         footer {
             background-color: #62859B;
