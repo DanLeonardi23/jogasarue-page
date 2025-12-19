@@ -98,6 +98,11 @@
             margin: 4px;
             
         }
+        #dangit a {
+        color: white;
+        text-decoration: none;
+        }
+
         footer > p {
             margin: 5px;
             

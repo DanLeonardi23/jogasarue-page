@@ -110,6 +110,11 @@ article > p {
   transition: transform 0.3s; /* transição */
 }
 
+#dangit a {
+  color: white;
+  text-decoration: none;
+}
+
 footer {
   background-color: #62859b;
   color: white;

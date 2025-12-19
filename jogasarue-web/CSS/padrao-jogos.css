@@ -75,6 +75,12 @@
             text-indent: 20px;
         }
 
+        #dangit a {
+        color: white;
+        text-decoration: none;
+        }    
+
+
         footer {
             background-color: #62859B;
             color: white;
