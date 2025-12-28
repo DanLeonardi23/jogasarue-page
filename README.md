@@ -141,3 +141,16 @@ O **JOGASARUÊ** é um portal completo para entusiastas de jogos de tabuleiro *P
 * Valorização da criatividade e do fazer manual
 
 É um projeto que une **design, diversão e acessibilidade**, promovendo o espírito colaborativo e criativo dos jogos de tabuleiro artesanais.
+
+---
+
+## ✅ LISTA DE AFAZERES:
+
+- [X] Layout simples
+- [X] Menu
+- [X] Informações no "Home"
+- [ ] Informações no "Jogos"
+- [ ] Informações no "Materiais"
+- [ ] Informações no "Downloads"
+- [ ] Otimizar imagens
+- [X] Responsividade
