@@ -70,7 +70,7 @@ Jogo com temática alienígena e de OVNIs, acompanhado do slogan:
 
 ### 🌱 Stardew Valley PnP
 
-Versão em tabuleiro do famoso videojogo de quinta, descrito como:
+Versão em tabuleiro do famoso videogame indie, descrito como:
 
 > **“Vida ‘tranquila’ na fazendinha”**
 
