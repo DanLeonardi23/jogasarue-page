@@ -51,7 +51,8 @@
             display: flex;
             flex-wrap: wrap;
             gap: 10px;
-            }
+            justify-content: center;
+         }
         .foto {
             flex: 1 1 calc(20% - 10px);
             box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
@@ -136,7 +137,8 @@
 
 @media screen and (max-width: 600px) {
             nav {
-            width: 95%;
+            margin: auto;
+            width: 90%;
             padding: 5px;
             display: flex;
             justify-content: center;
