@@ -87,6 +87,7 @@ article > p {
   background-color: #62859b;
   color: #f0e7c7;
   padding: 2px;
+  border-radius: 5px;
 }
 
 .container {
@@ -122,10 +123,12 @@ footer {
   text-align: center;
   padding: 20px;
   margin: auto;
+  
 }
 
 footer > p {
   margin: 10px;
+  
 }
 
 @media screen and (max-width: 600px) {
