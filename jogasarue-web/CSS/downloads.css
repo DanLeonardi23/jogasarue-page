@@ -46,7 +46,7 @@
         article > p {
             color: #131313;
             line-height: 1.6;
-            text-align: justify;
+            text-align: center;
             
         }
         footer {
@@ -82,6 +82,23 @@
             color: #F0E7C7;
             padding: 2px;
             margin: 10px;
+            
+        }
+
+        .titulo-download {
+            font-size: 24px;
+            font-weight: bold;
+            text-align: center;
+            margin-top: 20px;
+            margin-bottom: 10px;
+            color: #333333;
+        }
+
+        .box-download {
+            margin: auto;
+            text-align: center;
+            padding: 5px;
+            margin: 5px;
             
         }
 
