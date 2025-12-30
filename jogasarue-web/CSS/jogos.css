@@ -106,7 +106,7 @@
 
             text-align: center;
             margin: 10px;
-            padding: 10px;
+            padding: 2px;
             text-decoration: none;
             color: black;
             font-weight: bold;
@@ -118,7 +118,7 @@
         }
         nav > a {
             margin: 10px;
-            padding: 4px;
+            padding: 2px;
             text-decoration: none;
             color: black;
             font-weight: bold;
@@ -126,8 +126,8 @@
         nav > a:hover {
             background-color: #62859B;
             color: #F0E7C7;
-            padding: 10px;
-            margin: 4px;
+            padding: 2px;
+            margin: 10px;
             
         }
         footer > p {
