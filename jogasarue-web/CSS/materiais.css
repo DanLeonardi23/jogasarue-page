@@ -74,7 +74,7 @@
 
             text-align: center;
             margin: 10px;
-            padding: 2px;
+            padding: 10px;
             text-decoration: none;
             color: black;
             font-weight: bold;
@@ -94,7 +94,7 @@
         nav > a:hover {
             background-color: #62859B;
             color: #F0E7C7;
-            padding: 2px;
+            padding: 10px 2px 10px 2px;
             margin: 10px;
             
         }
