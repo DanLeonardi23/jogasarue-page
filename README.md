@@ -144,13 +144,13 @@ O **JOGASARUÊ** é um portal completo para entusiastas de jogos de tabuleiro *P
 
 ---
 
-## ✅ LISTA DE AFAZERES:
+## ✅ LISTA DE TAREFAS:
 
 - [X] Layout simples
 - [X] Menu
 - [X] Informações no "Home"
-- [ ] Informações no "Jogos"
+- [X] Informações no "Jogos"
 - [ ] Informações no "Materiais"
-- [ ] Informações no "Downloads"
+- [X] Informações no "Downloads"
 - [ ] Otimizar imagens
 - [X] Responsividade
