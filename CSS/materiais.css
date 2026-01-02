@@ -42,10 +42,11 @@
         }
 
         main .mapa img {
-            display: block;
-            margin: auto;
+            display: block; /* centraliza a imagem */
+            margin: auto; /* centraliza a imagem */
             max-width: 100%;   /* para nunca passar o tamanho do container */
-            height: auto;     
+            height: auto;  /* para manter a proporção da imagem */
+            border-radius: 10px;
         }
             
          h2 {

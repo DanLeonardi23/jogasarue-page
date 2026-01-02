@@ -71,6 +71,7 @@
             flex-wrap: wrap;
             gap: 10px;
             justify-content: center;
+            
          }
         .foto {
             flex: 1 1 calc(20% - 10px);
@@ -79,6 +80,7 @@
         .foto img {
             width: 100%;
             height: auto;
+            border-radius: 10px;
             }
 
            /* Responsividade para telas menores */
@@ -106,6 +108,7 @@
             background-color: #fff;
             text-align: center;
             font-weight: bold;
+            border-radius: 10px;
             }
 
         #dangit a {
