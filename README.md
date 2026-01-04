@@ -150,7 +150,7 @@ O **JOGASARUÊ** é um portal completo para entusiastas de jogos de tabuleiro *P
 - [X] Menu
 - [X] Informações no "Home"
 - [X] Informações no "Jogos"
-- [ ] Informações no "Materiais"
+- [X] Informações no "Materiais"
 - [X] Informações no "Downloads"
 - [ ] Otimizar imagens
 - [X] Responsividade
